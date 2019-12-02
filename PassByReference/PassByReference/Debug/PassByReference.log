@@ -1,0 +1,17 @@
+﻿  PassByReference.cpp
+g:\coding\c++\functions\passbyreference\passbyreference\passbyreference.cpp(53): error C2668: 'print_vector': ambiguous call to overloaded function
+  g:\coding\c++\functions\passbyreference\passbyreference\passbyreference.cpp(28): note: could be 'void print_vector(std::vector<std::string,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=std::string
+          ]
+  g:\coding\c++\functions\passbyreference\passbyreference\passbyreference.cpp(14): note: or       'void print_vector(const std::vector<std::string,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=std::string
+          ]
+  g:\coding\c++\functions\passbyreference\passbyreference\passbyreference.cpp(53): note: while trying to match the argument list '(std::vector<std::string,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=std::string
+          ]
