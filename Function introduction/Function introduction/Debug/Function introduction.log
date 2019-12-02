@@ -1,0 +1,3 @@
+﻿  Function introduction.cpp
+g:\coding\c++\functions\function introduction\function introduction\function introduction.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Function introduction.vcxproj -> G:\Coding\C++\Functions\Function introduction\Debug\Function introduction.exe
