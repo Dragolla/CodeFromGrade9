@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  RealSectionProject.cpp
+g:\coding\c++\functions\realsectionproject\realsectionproject\realsectionproject.cpp(94): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+RealSectionProject.obj : error LNK2019: unresolved external symbol "void __cdecl handle_find(class std::vector<int,class std::allocator<int> > const &)" (?handle_find@@YAXABV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function _main
+G:\Coding\C++\Functions\RealSectionProject\Debug\RealSectionProject.exe : fatal error LNK1120: 1 unresolved externals
